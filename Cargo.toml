@@ -1,0 +1,10 @@
+[package]
+name = "fst_benches"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fst = "0.4.7"
+bloomfilter = "1"
+memory-stats = "1.2.0"
+tiny_http = "0.8"
